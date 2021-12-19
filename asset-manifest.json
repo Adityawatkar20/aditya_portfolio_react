@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/aditya_portfolio_react/static/css/main.ff4908a7.chunk.css",
+    "main.js": "/aditya_portfolio_react/static/js/main.b23db2d3.chunk.js",
+    "main.js.map": "/aditya_portfolio_react/static/js/main.b23db2d3.chunk.js.map",
+    "runtime-main.js": "/aditya_portfolio_react/static/js/runtime-main.27726f27.js",
+    "runtime-main.js.map": "/aditya_portfolio_react/static/js/runtime-main.27726f27.js.map",
+    "static/js/2.9cd26c10.chunk.js": "/aditya_portfolio_react/static/js/2.9cd26c10.chunk.js",
+    "static/js/2.9cd26c10.chunk.js.map": "/aditya_portfolio_react/static/js/2.9cd26c10.chunk.js.map",
+    "index.html": "/aditya_portfolio_react/index.html",
+    "static/css/main.ff4908a7.chunk.css.map": "/aditya_portfolio_react/static/css/main.ff4908a7.chunk.css.map",
+    "static/js/2.9cd26c10.chunk.js.LICENSE.txt": "/aditya_portfolio_react/static/js/2.9cd26c10.chunk.js.LICENSE.txt",
+    "static/media/Aditya_img4.f6ff56b2.jpg": "/aditya_portfolio_react/static/media/Aditya_img4.f6ff56b2.jpg",
+    "static/media/aditya_img12.679fe53d.jpeg": "/aditya_portfolio_react/static/media/aditya_img12.679fe53d.jpeg",
+    "static/media/best-php-development-company.f2baa1cd.png": "/aditya_portfolio_react/static/media/best-php-development-company.f2baa1cd.png",
+    "static/media/App.css": "/aditya_portfolio_react/static/media/coffee-apple.a0c19713.jpg",
+    "static/media/html-css-javascrit.a6360106.jpg": "/aditya_portfolio_react/static/media/html-css-javascrit.a6360106.jpg",
+    "static/media/react-native.fcf1c08c.jpg": "/aditya_portfolio_react/static/media/react-native.fcf1c08c.jpg",
+    "static/media/reactjs-2.55d4ed86.png": "/aditya_portfolio_react/static/media/reactjs-2.55d4ed86.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27726f27.js",
+    "static/js/2.9cd26c10.chunk.js",
+    "static/css/main.ff4908a7.chunk.css",
+    "static/js/main.b23db2d3.chunk.js"
+  ]
+}
